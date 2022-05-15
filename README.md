@@ -1,8 +1,10 @@
 # ハッカーオタクのwebshell
 
+![finalOK](https://user-images.githubusercontent.com/85237728/168465559-32bd1f90-bd52-41cb-aebc-6081f814d6f2.png)
+
 webshellではいつも真っ白なページにちょこっとコマンドの実行結果が表示されるだけで実に簡素です。
 
-webshellを使う機会もけっこう多いので、ここで一度、毎回使っていたwebshellを派手に装飾しておこうと思いたち作っておきました。
+webshellを使う機会もけっこう多いので、ここで一度、毎回使っていたwebshellを派手に装飾しておこうと思い作っておきました。
 
 <br>
 
